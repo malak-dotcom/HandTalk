@@ -1,2 +1,1 @@
-*.v linguist-language=Verilog
-*.sv linguist-language=SystemVerilog
+*.v linguist-language=Python
